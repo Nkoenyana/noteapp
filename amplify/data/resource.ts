@@ -9,7 +9,7 @@ and "delete" any "Todo" records.
 const schema = a.schema({
   Note: a
     .model({
-      title:a.string().required(),
+      title: a.string().required(),
       content: a.string().required(),
       attachments: a.string().array(),
       tags: a.string().array(),

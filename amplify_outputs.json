@@ -163,11 +163,11 @@
   },
   "storage": {
     "aws_region": "us-east-1",
-    "bucket_name": "amplify-nextn-mike1212-sa-notemediastoragebucketcc-6stypplyswo3",
+    "bucket_name": "amplify-nextn-mike1212-sa-notestoragebucket2bf25fc-maqpsbgwfrje",
     "buckets": [
       {
-        "name": "note-media-storage",
-        "bucket_name": "amplify-nextn-mike1212-sa-notemediastoragebucketcc-6stypplyswo3",
+        "name": "note-storage",
+        "bucket_name": "amplify-nextn-mike1212-sa-notestoragebucket2bf25fc-maqpsbgwfrje",
         "aws_region": "us-east-1",
         "paths": {
           "protected/{user_identity_id}/*": {
