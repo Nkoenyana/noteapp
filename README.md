@@ -164,7 +164,3 @@ Khi bạn đã sẵn sàng để triển khai backend lên một môi trường 
 ```bash
 npx amplify deploy
 ```
-
-### Ký tên
-DEV HỌ LÀO - LÀO GÌ CŨNG TÔN
-Còn gì mà chưa làm nữa đâu! Thêm con AI vào kêu nó tạo cái note bằng giọng nói luôn đi cho khác biệt!
